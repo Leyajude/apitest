@@ -1,0 +1,15 @@
+.gg{
+    background-image:url(./gallery/gallery2/trstt.jpg);
+    background-size: cover;
+    height:700px;
+    width:100%;
+    border:2px solid black;
+}
+.pic{
+    width:50%;
+}
+.nn{
+    background-color: rgb(231, 220, 220);
+    height:600px;
+    width: 100%;
+}
